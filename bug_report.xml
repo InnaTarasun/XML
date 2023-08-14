@@ -1,0 +1,8 @@
+<Heading>main points of bug</Heading>
+<Description>brief description of the problem</Description>
+<Severity>high</Severity>
+<Steps to reproduce>how to reproduce bug</Steps to reproduce>
+<Environment>name of enviroment used</Environment> 
+<Expected result>what we wanted to have</Expected result>
+<Actual result>what we've got</Actual result> 
+<Visual attachments>screenshots</Visual attachments>
